@@ -1,7 +1,7 @@
 I am a PhD candidate at the Missouri School of Journalism <br>
 advised by Dr. Sungkyoung Lee.  
 
-Here's my [cv (pdf)](./Lee_CV_062519.pdf).  
+Here's my **[cv (pdf)](./Lee_CV_062519.pdf).**  
 
 My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. _[Read more](./another-page.html)._
 
