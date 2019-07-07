@@ -12,3 +12,6 @@ This dissertation examines the effect of inoculation messages in the context of 
 
 The dissertation also examines whether the presence of a different number of popularity cues—such as the number of likes (bandwagon effect; Sundar, 2008) on social media—can moderate the effects of inoculation messages. Further, the dissertation adopts motivated reasoning (Kunda, 1990) and includes the level of individual differences—that is, how people with different social, political, and/or religious values process new information or knowledge—as another variable to modulate the effect of message elements. 
 
+
+[back](./)
+
