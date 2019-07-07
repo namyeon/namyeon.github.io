@@ -1,45 +1,125 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>David Whipp</title>
+  <meta name="description" content="Namyeon Lee">
+
+  <!-- CSS files -->
+  <link rel="stylesheet" href="https://davewhipp.github.io/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://davewhipp.github.io/css/main.css">
+
+  <link rel="canonical" href="https://davewhipp.github.io/">
+  <link rel="alternate" type="application/rss+xml" title="Namyeon Lee" href="https://davewhipp.github.io/feed.xml" />
+
+  <!-- Icons -->
+  <!-- 16x16 -->
+  <link rel="shortcut icon" href="https://davewhipp.github.io/favicon.ico">
+  <!-- 32x32 -->
+  <link rel="shortcut icon" href="https://davewhipp.github.io/favicon.png">
+</head>
+
+
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+<div class="cover-card table-cell table-middle">
+  
+  <img src="http://namyeon.github.io/assets/logo.png" alt="" class="avatar">
+  
+  <a href="https://namyeon.github.io/" class="author_name">Namyeon Lee</a>
+  <span class="author_job">Science, Health & Visual Communication </span>
+  <span class="author_bio mbm">Ph.D. Candidate at the Missouri School of Journalism</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="https://namyeon.github.io/">home</a>
+        <span>/</span>
+      </li>
+       
+      <li class="nav-item">
+        <a href="https://namyeon.github.io/">Archive</a>
+        
+          <span>/</span>
+        
+      </li>
+        
+      <li class="nav-item">
+        <a href="https://namyeon.github.io/Lee_CV_062519.pdf">CV</a>
+        
+          <span>/</span>
+        
+      </li>
+          
+      <li class="nav-item">
+        <a href="https://namyeon.github.io/">Categories</a>
+        
+          <span>/</span>
+        
+      </li>
+            
+      <li class="nav-item">
+        <a href="https://namyeon.github.io/">Who?</a>
+        
+          <span>/</span>
+        
+      </li>
+           
+    </ul>
+  </nav>
+  <script type="text/javascript">
+  // based on http://stackoverflow.com/a/10300743/280842
+  function gen_mail_to_link(hs, subject) {
+    var lhs,rhs;
+    var p = hs.split('@');
+    lhs = p[0];
+    rhs = p[1];
+    document.write("<a class=\"social-link-item\" target=\"_blank\" href=\"mailto");
+    document.write(":" + lhs + "@");
+    document.write(rhs + "?subject=" + subject + "\"><i class=\"fa fa-fw fa-envelope\"></i><\/a>");
+  }
+</script>
+<div class="social-links">
+  <ul>
+    
+      <li>
+      <script>gen_mail_to_link('namyeonlee@mizzou.edu', 'Hello from website');</script>
+      </li>
+        
+    <li><a href="http://facebook.com/namyeonlee" class="social-link-item" target="_blank"><i class="fa fa-fw fa-facebook"></i></a></li>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+    
+    <li><a href="instagram.com/namyeon.lee" class="social-link-item" target="_blank"><i class="fa fa-fw fa-instagram"></i></a></li>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+    <li><a href="http://linkedin.com/in/dwhipp" class="social-link-item" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a></li>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
-
+    
+    <li><a href="http://github.com/namyeonlee" class="social-link-item" target="_blank"><i class="fa fa-fw fa-github"></i></a></li>
+    
+    
+    
+    
+    
+    
+    
+       
+    
+    
+    
+    
+  </ul>
+</div>
+        
+        
+        
       {{ content }}
 
       </section>
