@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -25,6 +25,9 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
+          <img src="namyeon.github.io/assets/logo.png" alt="" class="avatar">
+
+        
         
   <a href="https://namyeon.github.io/" class="author_name">Namyeon Lee</a>
   <span class="author_job">Computers, rocks, and beer</span>
