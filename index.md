@@ -1,4 +1,4 @@
-I am a Ph.D. candidate at the [Missouri School of Journalism](./https://journalism.missouri.edu/) advised by [Dr. Sungkyoung Lee](./https://journalism.missouri.edu/staff/sungkyoung-lee/).  
+I am a Ph.D. candidate at the <a href="https://journalism.missouri.edu/">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/">Dr. Sungkyoung Lee. </a>
 
 Here's my **[cv (pdf)](./Lee_CV_062519.pdf).**  
 
@@ -10,7 +10,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 *   [j. 2] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (accepted for publication, pending revisions). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior_
 
-*   [j.1] Jahng, M. R., **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. https://doi.org/10.1177/1075547017751948 
+*   [j.1] Jahng, M. R., **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
 
 * * *
 
