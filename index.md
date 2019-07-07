@@ -1,4 +1,4 @@
-I am a PhD candidate at the [Missouri School of Journalism](./https://journalism.missouri.edu/). advised by [Dr. Sungkyoung Lee](./https://journalism.missouri.edu/staff/sungkyoung-lee/).  
+I am a PhD candidate at the [Missouri School of Journalism](./https://journalism.missouri.edu/) advised by [Dr. Sungkyoung Lee](./https://journalism.missouri.edu/staff/sungkyoung-lee/).  
 
 Here's my **[cv (pdf)](./Lee_CV_062519.pdf).**  
 
