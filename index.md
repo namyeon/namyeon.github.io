@@ -3,7 +3,7 @@ advised by Dr. Sungkyoung Lee.
 
 Here's my **[cv (pdf)](./Lee_CV_062519.pdf).**  
 
-My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. _[Read more](./dissertation.html)._
+My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. _[Read more](./dissertation.md)._
 
 * * *
 
