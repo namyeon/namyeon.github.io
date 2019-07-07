@@ -5,6 +5,7 @@ Here's my cv (pdf).
 
 My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. Read more
 
+* * *
 
 ### Journal Articles:
 
@@ -12,6 +13,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 *   [j.1] Jahng, M. R., **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. https://doi.org/10.1177/1075547017751948 
 
+* * *
 
 ### Journal Manuscripts in Progress:
 
@@ -22,6 +24,8 @@ My dissertation work looks at how to develop strategies that science communicati
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. 
 
 *   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. 
+
+* * *
 
 ### Conference Papers:
 
