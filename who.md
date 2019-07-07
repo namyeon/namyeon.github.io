@@ -8,7 +8,7 @@ The Missouri School of Journalism is known for the _Missouri Method_. It combine
 
 In addition, I previously worked for a nonprofit organization, Slow Food Korea, as a public relations specialist and completed in several international internships during the course of my education. I have interned for McCann Worldgroup in Japan and the Ministry of Foreign Affairs of South Korea in Vietnam. You can see the map below to see places I've lived or stayed. 
 
-I don't know where my next destination will be, but as long as there are mossy woods, big rivers, and a Korean grocery store, I know I will be more than grateful!
+I don't know where my next destination will be, but as long as there are mossy woods, big rivers, and a Korean grocery store, I know I will be more than grateful 🤗
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CiBZYr5L1j2HmTF_BOuJWw5rSM-b78Jm" width="400" height="300"></iframe>
