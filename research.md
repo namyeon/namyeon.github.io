@@ -9,8 +9,9 @@ To date, it is believed that if members of the general public are provided with 
 
 * Visual messages 
 * Experimental Designs 
-* Eye-tracking 
 
+**Eye-tracking**
+Eye tracking method offers researchers an opportunity to collect an objective assessment of visual behavior, such as attention, exposure time, and cognitve processing. 
 
 
 
