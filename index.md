@@ -1,34 +1,11 @@
-I am a PhD candidate at the Missouri School of Journalism advised by Dr. Sungkyoung Lee.  
+I am a PhD candidate at the Missouri School of Journalism <br>
+advised by Dr. Sungkyoung Lee.  
 
 Here's my cv (pdf). 
 
 My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. Read more
 
-
----
-layout: default
----
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+### Journal Articles
 
 ```js
 // Javascript code with syntax highlighting.
@@ -121,6 +98,32 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
+
+
+
+---
+layout: default
+---
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
