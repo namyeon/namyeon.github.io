@@ -58,4 +58,4 @@ I worked as a graphic designer for University of Missouri College of Education. 
 I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018.  I also served as the teaching assistant for two undergraduate courses, Strategic Communication Research Methods and Strategic Writing and Design.  
 
 <br>
-</br>
+<br>
