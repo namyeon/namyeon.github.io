@@ -8,11 +8,9 @@ My dissertation work looks at how to develop strategies that science communicati
 ### Journal Articles
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+[j. 2] Hong, S., Jahng, M. R., Lee, N., & Wise, K. (accepted for publication, pending revisions). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. Computers in Human Behavior
+<br>
+[j.1] Jahng, M. R., Lee, N. (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. Science Communication, 40(1), 89-108. https://doi.org/10.1177/1075547017751948 
 ```
 
 ```ruby
