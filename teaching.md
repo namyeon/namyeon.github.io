@@ -3,7 +3,7 @@
 ### Teaching
 
 * teaching philosophy
-* coureses taught 
+* courses taught 
 
 
 
