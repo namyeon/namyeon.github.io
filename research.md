@@ -1,5 +1,4 @@
 
-<script src="/node_modules/readmore-js/readmore.min.js"></script>
 
 ### Research 
 
@@ -8,7 +7,12 @@ The dissemination of scientific knowledge to the public has important implicatio
 
 To date, it is believed that if members of the general public are provided with knowledge of scientific matters, their science literacy will increase, and they will adopt views consistent with experts. However, recent science communication works have pointed out that the same communication messages cannot be used for everybody because different people around the world interpret and process new information based on their existing beliefs. Therefore, science communication messages need to consider the relevant beliefs that viewers already hold and use effective message features. I hope my research works will add to the body of research on communication strategies and thus enhance the relevance of scientific information for a diverse audience.
 
-$('article').readmore();
+<script src="/node_modules/readmore-js/readmore.min.js"></script>
+
+$('article').readmore({
+  speed: 75,
+  lessLink: '<a href="#">Read less</a>'
+});
 
 
 * Visual messages 
