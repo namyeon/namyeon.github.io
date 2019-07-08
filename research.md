@@ -18,4 +18,32 @@ Eye tracking method offers researchers an opportunity to collect an objective as
 
 
 
+When watching how-to videos related to physical tasks, users’ hands are often occupied by the task, making voice input a natural fit. 
+
+To better understand the design space of voice interactions for how-to video navigation, we conducted three think-aloud studies using: 
+
+1) a traditional video interface, 2) a research probe providing a voice controlled video interface, and 3) a wizard-of-oz interface. 
+
+<span class="morebutton" id="article3"> Read More </span> 
+
+<span class="readmore" id="article3_content"> 
+
+<!-- rest of what to show on "more" --> 
+
+From the studies, we distill seven navigation objectives and their underlying intents: 
+
+pace control pause, content alignment pause, video control pause, reference jump, replay jump, skip jump, and peek jump. 
+
+Our analysis found that users’ navigation objectives and intents affect the choice of referent type and referencing approach in command utterances. 
+
+Based on our findings, we recommend to 1) support conversational strategies like sequence expansions and command queues, 
+
+2) allow users to identify and refine their navigation objectives explicitly, and 3) support the seven interaction intents.</span> 
+
+<span class="lessbutton" id="article3_less"> Read Less </span> 
+
+</div> 
+
+
+
 [back](./)
