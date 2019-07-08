@@ -1,6 +1,21 @@
 
 
 <script src="/node_modules/readmore-js/readmore.min.js"></script>
+$('.example').readmore({
+  collapsedHeight: 300,
+  speed: 500,
+  embedCSS: false,
+  moreLink: '<a href="#">More information</a>',
+  lessLink: '<a href="#">Less information</a>',
+  beforeToggle: function(trigger, element, expanded) {
+    if (expanded === false) {
+      element.addClass('remove-after');
+    } else {
+      element.removeClass('remove-after');
+    }
+  }
+});
+
 ### Research 
 
 **Science & health communication**
