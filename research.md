@@ -19,5 +19,4 @@ Eye tracking method offers researchers an opportunity to collect an objective as
 
 
 
-
 [back](./)
