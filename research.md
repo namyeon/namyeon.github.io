@@ -19,27 +19,6 @@ Eye tracking method offers researchers an opportunity to collect an objective as
 
 
 
-<div class="abstract"> 
-
-<!-- what to show first --> 
-
-abc
-
-<span class="morebutton" id="article2"> Read More </span> 
-
-<span class="readmore" id="article2_content"> 
-
-<!-- rest of what to show on "more" --> 
-
-abc
-
-</span> 
-
-<span class="lessbutton" id="article2_less"> Read Less </span> 
-
-</div> 
-
-
 
 
 [back](./)
