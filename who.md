@@ -7,13 +7,13 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 
 ### Places I've lived: 
 
-/ Seoul (S. Korea) <br>
-/ Concordia (MO, USA)<br>
-/ Dover-Foxcroft (ME, USA)<br>
-/ Waterville (ME, USA)<br>
-/ Ho Chi Minh City (Vietnam)<br>
-/ Namyangju (S. Korea)<br>
-/ Columbia (MO, USA)<br>
+. Seoul (S. Korea) <br>
+. Concordia (MO, USA)<br>
+. Dover-Foxcroft (ME, USA)<br>
+. Waterville (ME, USA)<br>
+. Ho Chi Minh City (Vietnam)<br>
+. Namyangju (S. Korea)<br>
+. Columbia (MO, USA)<br>
 
 ### Things I like: 
 
@@ -27,13 +27,15 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 If you're interested in my research of just want to learn more about me, then let's talk - namyeonlee [at] missouri [at] edu. 
 Or find me on other online presences: 
 
-_ Instagram <br>
-_ Facebook <br>
-_ Google scholar <br>
-_ LinkedIn<br>
-_ Personal Blog (Korean)<br>
+. Instagram <br>
+. Facebook <br>
+. Google scholar <br>
+. LinkedIn<br>
+. Personal Blog (Korean)<br>
+
 
 [back](./)
+
 
 
 
