@@ -7,13 +7,13 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 
 ### Places I've lived: 
 
-. Seoul (S. Korea) <br>
-. Concordia (MO, USA)<br>
-. Dover-Foxcroft (ME, USA)<br>
-. Waterville (ME, USA)<br>
-. Ho Chi Minh City (Vietnam)<br>
-. Namyangju (S. Korea)<br>
-. Columbia (MO, USA)<br>
+. <a href="https://goo.gl/maps/eefhzatKQrN4M8Fg6">Seoul</a> (S. Korea) <br>
+. <a href="https://goo.gl/maps/A6NWSttJozkKNAWWA>Concordia</a> (MO, USA)<br>
+. <a href="https://goo.gl/maps/wGnR9ggN5DRXt5KX7">Dover-Foxcroft</a> (ME, USA)<br>
+. <a href="https://goo.gl/maps/GnQaguvzDvdPdW5W8">Waterville </a> (ME, USA)<br>
+. <a href="https://goo.gl/maps/P91VzKxZWfVFLmzv5">Ho Chi Minh City </a> (Vietnam)<br>
+. <a href="https://goo.gl/maps/TXGsHFNY9wBcmhKG9">Namyangju </a> (S. Korea)<br>
+. <a href="https://goo.gl/maps/zRvKVVgGj1BgAcao9">Columbia </a> (MO, USA)<br>
 
 ### Things I like: 
 
@@ -27,11 +27,11 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 If you're interested in my research of just want to learn more about me, then let's talk - namyeonlee [at] missouri [at] edu. 
 Or find me on other online presences: 
 
-. Instagram <br>
-. Facebook <br>
-. Google scholar <br>
-. LinkedIn<br>
-. Personal Blog (Korean)<br>
+. <a href="https://www.instagram.com/namyeon.lee/">Instagram</a> <br>
+. <a href="https://www.facebook.com/namyeon.lee"> Facebook</a><br>
+. <a href="https://scholar.google.com/citations?user=e9AxEE4AAAAJ&hl=en"> Google scholar</a> <br>
+. <a href="https://www.linkedin.com/in/namyeon-lee-7bb20060">LinkedIn </a><br>
+. <a href="https://www.honeycrisps.tistory.com">Personal Blog</a> (Korean)<br>
 
 
 [back](./)
