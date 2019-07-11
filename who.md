@@ -9,21 +9,21 @@ Seoul (S. Korea), Concordia (MO, USA), Dover-Foxcroft (ME, USA), Waterville (ME,
 
 ### Things I like: 
 
-running 
-reading 
-baking 
-music 
-mossy woods & big rivers 
-MCU movies 
+running <br>
+reading <br>
+baking <br>
+music <br>
+mossy woods & big rivers <br>
+MCU movies <br>
 
 If you're interested in my research of just want to learn more about me, then let's talk - namyeonlee [at] missouri [at] edu. 
 Or find me on other online presences: 
 
-Instagram 
-Facebook 
-Google scholar
-LinkedIn
-Personal Blog (Korean) 
+Instagram <br>
+Facebook <br>
+Google scholar <br>
+LinkedIn <br>
+Personal Blog (Korean) <br>
 
 [back](./)
 
