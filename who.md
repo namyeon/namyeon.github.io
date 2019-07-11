@@ -4,11 +4,6 @@
 
 My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South Korea, I came to the United States in 2006 through a high school exchange student program. I completed my undergraduate study and master’s work at the University of Missouri School of Journalism (MA ‘16, BJ ‘14) and will complete my PhD in Spring 2020. 
 
-
-### Places I've lived: 
-
-<a href="https://goo.gl/maps/eefhzatKQrN4M8Fg6">Seoul</a> (S. Korea), <a href="https://goo.gl/maps/A6NWSttJozkKNAWWA">Concordia</a> (MO, USA), <a href="https://goo.gl/maps/wGnR9ggN5DRXt5KX7">Dover-Foxcroft</a> (ME, USA), <a href="https://goo.gl/maps/GnQaguvzDvdPdW5W8">Waterville </a> (ME, USA), <a href="https://goo.gl/maps/P91VzKxZWfVFLmzv5">Ho Chi Minh City </a> (Vietnam), <a href="https://goo.gl/maps/TXGsHFNY9wBcmhKG9">Namyangju </a> (S. Korea), <a href="https://goo.gl/maps/zRvKVVgGj1BgAcao9">Columbia </a> (MO, USA)<br>
-
 ### Places I've lived: 
 
 . <a href="https://goo.gl/maps/eefhzatKQrN4M8Fg6">Seoul</a> (S. Korea) <br>
