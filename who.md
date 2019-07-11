@@ -6,7 +6,7 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 
 ### Places I've lived: 
 <dd>Seoul (S. Korea)</dd>
-<dd>Concordia (MO, USA)<dd>
+<dd>Concordia (MO, USA)</dd>
   
 > Dover-Foxcroft (ME, USA) <br>
 > Waterville (ME, USA) <br>
