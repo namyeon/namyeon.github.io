@@ -1,9 +1,6 @@
 
 
-<script src="/node_modules/readmore-js/readmore.min.js"></script>
-
-
-### Research 
+## Research 
 
 **Science & health communication**
 The dissemination of scientific knowledge to the public has important implications for policy-making in our society. This is because the public’s increased awareness and knowledge of science and scientific findings can contribute to creating healthy discourses about relevant topics (i.e., climate change, nanotechnology, and vaccine safety). However, over the past decade, concerns about being scientifically under- or misinformed have been growing, such as the issue of fake news and social media promoting the spread of misinformation. In recent years, attention has been given to communication researchers, who can bridge the gap between the people involved in scientific research and lay audiences. It is crucial that we develop a strategy to ease the intensity, complexity, and intricacy of science and scientific findings in order for the general public to comprehend.
