@@ -16,23 +16,24 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 </d1> 
 
 ### Things I like: 
-
-> running <br>
-> reading <br>
-> baking <br>
-> music <br>
-> mossy woods & big rivers <br>
-> MCU movies <br>
+<d2> 
+<dd>running</dd>
+<dd>reading</dd>
+<dd>baking</dd>
+<dd>music</dd>
+<dd>mossy woods & big rivers</dd>
+<dd>MCU movies</dd>
+</d2> 
 
 If you're interested in my research of just want to learn more about me, then let's talk - namyeonlee [at] missouri [at] edu. 
 Or find me on other online presences: 
-
-> Instagram <br>
-> Facebook <br>
-> Google scholar <br>
-> LinkedIn <br>
-> Personal Blog (Korean) <br>
-
+<d3>
+<dd>Instagram </dd>
+<dd>Facebook </dd> 
+<dd>Google scholar </dd>
+<dd>LinkedIn </dd>
+<dd>Personal Blog (Korean)</dd>
+</d3> 
 
 [back](./)
 
