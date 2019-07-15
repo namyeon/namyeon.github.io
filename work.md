@@ -12,7 +12,11 @@
 
         <!-- more figures here as needed -->
 
-    </div>    
-    
+ </div>    
+ 
+ <script>
+    makeBSS('.bss-slides');
+</script>
+
     </body> 
 </html> 
