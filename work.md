@@ -1,5 +1,18 @@
+
+<div class="slideshow-class-goes-here">
+    <figure>
+        <img src="path/to/img" width="100%" />
+        <figcaption>Caption goes here</figcaption> 
+    </figure>
+
+    <!-- more figures here as needed -->
+
+</div>
+
 <script>
     makeBSS('.bss-slides');
+    
+</script>
 
 
 
@@ -20,4 +33,3 @@
       <img src="demo/img/colorado-colors.jpg" width="100%" /><figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen Miller</a>.</figcaption> 
     </figure>
 </div> <!-- // bss-slides -->
-</script>
