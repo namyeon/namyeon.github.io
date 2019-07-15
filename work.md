@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="{{ site.lang | default: "en-US" }}">
  <head>
  </head>
