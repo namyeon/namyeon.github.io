@@ -1,9 +1,13 @@
+<script src="demo/js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
 <script src="js/better-simple-slideshow.min.js"></script>
 <script>
 var opts = {
-    auto : false,
-    fullScreen : true,
-    swipe : false
+    auto : {
+        speed : 3500, 
+        pauseOnHover : true
+    },
+    fullScreen : false, 
+    swipe : true
 };
-makeBSS('.num2', opts);
+makeBSS('.num1', opts);
 </script>
