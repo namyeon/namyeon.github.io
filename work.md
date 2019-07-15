@@ -4,12 +4,6 @@
  </head>
   <body>
    
-   
-   
- 
- <script>
-    makeBSS('.bss-slides');
-</script>
 
  
 <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
@@ -29,5 +23,11 @@
       <img src="demo/img/colorado-colors.jpg" width="100%" /><figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen Miller</a>.</figcaption> 
     </figure>
 </div> <!-- // bss-slides --> 
-    </body> 
+   
+ 
+ <script>
+    makeBSS('.bss-slides');
+</script>
+
+  </body> 
 </html> 
