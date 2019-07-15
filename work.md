@@ -1,3 +1,8 @@
+<script>
+    makeBSS('.bss-slides');
+
+
+
 <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
     <figure>
       <img src="demo/img/medium.jpg" width="100%" /><figcaption>"Medium" by <a href="https://www.flickr.com/photos/thomashawk/14586158819/">Thomas Hawk</a>.</figcaption> 
@@ -15,3 +20,4 @@
       <img src="demo/img/colorado-colors.jpg" width="100%" /><figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen Miller</a>.</figcaption> 
     </figure>
 </div> <!-- // bss-slides -->
+</script>
