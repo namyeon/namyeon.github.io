@@ -1,9 +1,18 @@
-import Slider from 'react-animated-slider';
-import 'react-animated-slider/build/horizontal.css';
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+ <head>
+ </head>
+  <body>
+   
+ <div class="bss-slides">
+        <figure>
+            <img src="path/to/img" width="100%" />
+            <figcaption>Caption goes here</figcaption> 
+        </figure>
 
-<Slider>
-  {content.map((article, index) => <div key={index}>
-    <h2>{article.title}</h2>
-    <div>{article.description}</div>
-  </div>)}
-</Slider>
+        <!-- more figures here as needed -->
+
+    </div>    
+    
+    </body> 
+</html> 
