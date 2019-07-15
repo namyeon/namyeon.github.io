@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+    
 <script src="demo/js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
 <script src="js/better-simple-slideshow.min.js"></script>
 <script>
@@ -11,3 +15,7 @@ var opts = {
 };
 makeBSS('.num1', opts);
 </script>
+
+</body>
+</html>
+
