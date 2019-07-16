@@ -1,23 +1,9 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>A simple DIY responsive slideshow made with HTML5, CSS3, and JavaScript</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="demo/css/demostyles.css">
-        <link rel="stylesheet" href="css/simple-slideshow-styles.css">
-    </head>
-    <body>
-        <!--[if lt IE 8]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
         <header>
-            <h1>A Better Simple Slideshow</h1>
-            <p><span class="desc">A simple DIY responsive JavaScript slideshow.</span> [<a href="https://github.com/leemark/better-simple-slideshow">GitHub<span> repo</span></a>]</p>
+            <h1>Slideshow</h1>
+            <p><span class="desc">That explains my work</span> [<a href="https://github.com/leemark/better-simple-slideshow">GitHub<span> repo</span></a>]</p>
         </header>    
         <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
             <figure>
