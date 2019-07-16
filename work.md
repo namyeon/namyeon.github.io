@@ -1,115 +1,157 @@
 
 <!DOCTYPE html>
 <html>
-        <header>
-            <h1>Slideshow</h1>
-            <p><span class="desc">That explains my work</span> [<a href="https://github.com/leemark/better-simple-slideshow">GitHub<span> repo</span></a>]</p>
-        </header>    
-        <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
-            <figure>
-		      <img src="demo/img/medium.jpg" width="100%" /><figcaption>"Medium" by <a href="https://www.flickr.com/photos/thomashawk/14586158819/">Thomas Hawk</a>.</figcaption> 
-            </figure>
-            <figure>
-		      <img src="demo/img/colorado.jpg" width="100%" /><figcaption>"Colorado" by <a href="https://www.flickr.com/photos/stuckincustoms/88370744">Trey Ratcliff</a>.</figcaption> 
-            </figure>
-            <figure>
-		      <img src="demo/img/monte-vista.jpg" width="100%" /><figcaption>"Early Morning at the Monte Vista Wildlife Refuge, Colorado" by <a href="https://www.flickr.com/photos/davesoldano/8572429635">Dave Soldano</a>.</figcaption> 
-            </figure>
-            <figure>
-		      <img src="demo/img/sunrise.jpg" width="100%" /><figcaption>"Sunrise in Eastern Colorado" by <a href="https://www.flickr.com/photos/35528040@N04/6673031153">Pam Morris</a>.</figcaption> 
-            </figure>
-            <figure>
-		      <img src="demo/img/colorado-colors.jpg" width="100%" /><figcaption>"colorado colors" by <a href="https://www.flickr.com/photos/cptspock/2857543585">Jasen Miller</a>.</figcaption> 
-            </figure>
-        </div> <!-- // bss-slides -->  
-<div class="content">
-<h2>What is it?</h2>
-
-<p>It's a fairly basic slideshow, written in javascript. This is a dual-purpose project, it's meant to be something you can drop right into your page and use if you so choose, but it's also meant as an example/tutorial script showing how to build a simple DIY slideshow from scratch on your own. <a href="http://themarklee.com/2014/10/05/better-simple-slideshow/">Here is a tutorial/walkthrough</a>.</p>
+<header> 
+	<h1> Slideshow </h1> 
+	<p><span class="desc">Print designs </span> 
+	</header> 	
+	<div class="slideshow-class-goes-here">
+    <figure>
+        <img src="/logo.png" width="100%" />
+        <figcaption>Caption goes here</figcaption> 
+    </figure>
+	</div>
+	
+	 
+var makeBSS = function (el, options) {
+    // a collection of all of the slideshows
+    var $slideshows = document.querySelectorAll(el),
         
-<h2>Features</h2>
-<ul>
-    <li>fully responsive</li>
-    <li>option for auto-advancing slides, or manually advancing by user</li>
-    <li>multiple slideshows per-page</li>
-    <li>supports arrow-key navigation</li>
-    <li>full-screen toggle using HTML5 fullscreen api</li>
-    <li>swipe events supported on touch devices (requires <a href="https://github.com/hammerjs/hammer.js">hammer.js</a>)</li>
-    <li>written in vanilla JS--this means no jQuery dependency (much &hearts; for <a href="https://github.com/jquery/jquery">jQuery</a> though!)</li>
-</ul>
+        // this slideshow instance 
+        $slideshow = {},
         
-<h2>Getting Started</h2>
-<ol>
-<li><p>HTML markup for the slideshow should look basically like this, with a container element wrapping the whole thing (doesn't have to be a <span class="code">&lt;div&gt;</span>) and each slide is a <span class="code">&lt;figure&gt;</span>.</p>
-
-<script src="https://gist.github.com/leemark/83571d9f8f0e3ad853a8.js"></script> </li>   
-
-<li>Include the script: <span class="code">js/better-simple-slideshow.min.js</span> or <span class="code">js/better-simple-slideshow.js</span></li>
-<li>Include the stylesheet <span class="code">css/simple-slideshow-styles.css</span></li>
-<li>Initialize the slideshow:
-<script src="https://gist.github.com/leemark/479d4ecc4df38fba500c.js"></script>
-</li>
-</ol>
-<h2>Options</h2>
-
-To customize functionality, create an options object, then pass it into <span class="code">makeBSS()</span> as the second argument, as seen below:
-
-<script src="https://gist.github.com/leemark/c6e0f5c47acb7bf9be16.js"></script>
-
-<h2>Demo/Examples</h2>
-    <h3>Example #1 (slideshow at top of this page)</h3>
-    <p>HTML markup:</p>
-    <script src="https://gist.github.com/leemark/19bafdb1abf8f6b4e147.js"></script>
-    <p>JavaScript code:</p>
-    <script src="https://gist.github.com/leemark/a09d2726b5bfc92ea68c.js"></script>
-    
-    <h3>Example #2 (below)</h3>
-        <div class="bss-slides num2" tabindex="2">
-	       <figure>
-		      <img src="http://themarklee.com/wp-content/uploads/2013/12/snowying.jpg" width="100%" /><figcaption>"Snowying" by <a href="http://www.flickr.com/photos/fiddleoak/8511209344/">fiddleoak</a>.</figcaption> 
-	       </figure>
-            <figure>
-                <img src="http://themarklee.com/wp-content/uploads/2013/12/starlight.jpg" width="100%" /><figcaption>"Starlight" by <a href="http://www.flickr.com/photos/chaoticmind75/10738494123/in/set-72157626146319517">ChaoticMind75</a>.</figcaption> 
-	       </figure>
-	       <figure>
-		      <img src="http://themarklee.com/wp-content/uploads/2013/12/snowstorm.jpg" width="100%" /><figcaption>"Snowstorm" by <a href="http://www.flickr.com/photos/tylerbeaulawrence/8539457508/">Beaulawrence</a>.</figcaption> 
-	       </figure>
-            <figure>
-		      <img src="http://themarklee.com/wp-content/uploads/2013/12/misty-winter-afternoon.jpg" width="100%" /><figcaption>"Misty winter afternoon" by <a href="http://www.flickr.com/photos/22746515@N02/5277611659/">Bert Kaufmann</a>.</figcaption> 
-	       </figure>
-            <figure>
-		      <img src="http://themarklee.com/wp-content/uploads/2013/12/good-morning.jpg" width="100%" /><figcaption>"Good Morning!" by <a href="http://www.flickr.com/photos/frank_wuestefeld/4306107546/">Frank Wuestefeld</a>.</figcaption> 
-	       </figure>
-        </div> <!-- // bss-slides --> 
-    
-<p>HTML markup:</p>
-<script src="https://gist.github.com/leemark/de90c78cb73673650a5a.js"></script>
-
-<p>JavaScript code:</p>
-<script src="https://gist.github.com/leemark/046103061c89cdf07e4a.js"></script>
-    
-    
-</div> <!-- // content -->   
-<footer>Example photos are property of their respective owners, all code is <a href="https://github.com/leemark/better-simple-slideshow/blob/gh-pages/LICENSE">freely licensed for your use</a>. <br>Made especially for you by <a href="http://themarklee.com">Mark Lee</a> aka <a href="http://twitter.com/@therealmarklee">@therealmarklee</a> <br><span>&#9774; + &hearts;</span></footer>        
-<script src="demo/js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
-<script src="js/better-simple-slideshow.min.js"></script>
-<script>
+        // the slideshow object we will use as prototype 
+        Slideshow = {
+            init: function (el, options) {
+               /* ...
+                  slideshow initialization stuff 
+                  happens here */
+            },
+            showCurrent: function (i) {
+               /* ...
+                  show current slide and hide the rest
+                  increment/decrement counter to keep track
+                  of our place in the slideshow */
+            },
+            injectControls: function (el) {
+               /* ...
+                  add previous & next buttons 
+                  to the slideshow */
+            },
+            addEventListeners: function (el) {
+               /* ...
+                  add event listeners to prev/next
+                  buttons, and to left/right arrow keys
+                  for keyboard navigation */    
+            },
+            autoCycle: function (el, speed, pauseOnHover) {
+               /* ...
+                  make slides auto-advance on a timer
+                  and pause timer on hover */
+            },
+            addFullScreen: function(el){
+               /* ...
+                  add full screen toggle button */
+            },
+            addSwipe: function(el){
+               /* ...
+                  add touch/swipe functionality 
+                  using hammerjs */
+            },
+            toggleFullScreen: function(el){
+               /* ...
+                  toggle full screen on/off
+                  as button is clicked */ 
+            } 
+            
+        }; // end Slideshow object 
+        
+    /* make instances of Slideshow as needed,
+       the forEach makes it so that we can create multiple
+       slideshows if $slideshows is a list of DOM elements */                     
+    [].forEach.call($slideshows, function (el) {
+        /* instantiate a new object 
+           using Slideshow as its prototype */      
+        $slideshow = Object.create(Slideshow);
+        /* call the init method on the new object
+           and pass in the options we've set */
+        $slideshow.init(el, options);
+    });
+};
+ 
+/* set up the options for the slideshow
+   we're about to create */
 var opts = {
     auto : {
-        speed : 3500, 
+        speed : 5000, 
         pauseOnHover : true
     },
-    fullScreen : false, 
+    fullScreen : true, 
     swipe : true
 };
-makeBSS('.num1', opts);
-
-var opts2 = {
-    auto : false,
-    fullScreen : true,
-    swipe : true
-};
-makeBSS('.num2', opts2);
-</script>
+ 
+/* call makeBSS, passing in the element(s)
+   we want to make a slideshow, and the
+   options we have set */
+makeBSS('.demo1', opts);
+ 
+ 
+ init: function (el, options) {
+ 
+    /* to keep track of current slide */
+    this.counter = 0; 
+ 
+    /* current slideshow container element 
+       create this as a property on the current object */
+    this.el = el;     
+ 
+    /* a collection of all of the individual slides */
+    this.$items = el.querySelectorAll('figure'); 
+ 
+    /* the total number of slides */
+    this.numItems = this.$items.length; 
+ 
+    /* if options object not passed in, then set to empty object [1] */
+    options = options || {};  
+ 
+    /* if options.auto object not passed in, then set to false */   
+    options.auto = options.auto || false; 
+ 
+    this.opts = {
+        /* set the rest of the options, either to what 
+           was passed in or to a default value. similar 
+           to above only using the ternary operator [2] */
+        auto: (typeof options.auto === "undefined") ? false : options.auto,
+        speed: (typeof options.auto.speed === "undefined") ? 1500 : options.auto.speed,
+        pauseOnHover: (typeof options.auto.pauseOnHover === "undefined") ? false : options.auto.pauseOnHover,
+        fullScreen: (typeof options.fullScreen === "undefined") ? false : options.fullScreen,
+        swipe: (typeof options.swipe === "undefined") ? false : options.swipe
+    };
+    
+    /* add 'bss-show' class to first figure so that
+       the first slide is visible when the slideshow loads */ 
+    this.$items[0].classList.add('bss-show');  
+    
+    /* add the slideshow controls */
+    this.injectControls(el);
+    
+    /* set up event listeners */
+    this.addEventListeners(el);
+ 
+    /* call methods for optional features */
+    if (this.opts.auto) {
+        this.autoCycle(this.el, this.opts.speed, this.opts.pauseOnHover);
+    }
+    if (this.opts.fullScreen) {
+        this.addFullScreen(this.el);
+    }
+    if (this.opts.swipe) {
+        this.addSwipe(this.el);
+    }
+}
+ 
+ 
+ 
+ 
 </body>
 </html>
