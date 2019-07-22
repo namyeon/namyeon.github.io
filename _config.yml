@@ -3,3 +3,5 @@ google_analytics: 113500791
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
+title: "Namyeon Lee"
+description: "PhD Candidate at the Missouri School of Journalism"
