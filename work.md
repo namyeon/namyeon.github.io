@@ -4,7 +4,7 @@ I have worked as a graphic designer at the University of Missouri College of Edu
 
 These are some of the examples of my design work :)
 
-**E-screens**
+**E-screens** <br>
 <img src="namyeon.github.io/A Rwandan Study-01.jpg"> <br>
 <img src="namyeon.github.io/Drive-01.jpg">
 
