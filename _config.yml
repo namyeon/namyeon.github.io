@@ -1,3 +1,5 @@
 title: Namyeon Lee 
 google_analytics: 113500791
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
