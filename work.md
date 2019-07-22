@@ -1,11 +1,17 @@
 ## Graphic Designs 
 
-I have worked as a graphic designer at the University of Missouri College of Education. My duties included developing communication and promotion strategies, including e-screens, print, social media, and videography. I also designed marketing materials for events, newsletters, and materials to communicate with undergraduate and graduate students from the College of Ed. These are some of the examples of my work :)
+I have worked as a graphic designer at the University of Missouri College of Education. My duties included developing communication and promotion strategies, including e-screens, print, social media, and videography to communicate with undergraduate and graduate students from the College of Ed. I also worked in an integrated marketing campaign for our client, Boone Hospital Foundation. I also work on design projects for my church from time to time. 
+
+These are some of the examples of my design work :)
 
 **E-screens**
 
-**Brochures
+**Brochures**
 
-**Logo design
+**Logo design**
 
-**(Post)cards 
+**(Post)cards**  
+
+**Posters**
+
+**Campagin book** 
