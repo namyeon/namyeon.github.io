@@ -6,13 +6,13 @@ My name is Namyeon (pronounced as "_nahm-yuhn_"). Originally from Seoul, South K
 
 ### Places I've lived: 
 
-. <a href="https://goo.gl/maps/eefhzatKQrN4M8Fg6">Seoul</a> (S. Korea) <br>
-. <a href="https://goo.gl/maps/A6NWSttJozkKNAWWA">Concordia</a> (MO, USA)<br>
-. <a href="https://goo.gl/maps/wGnR9ggN5DRXt5KX7">Dover-Foxcroft</a> (ME, USA)<br>
-. <a href="https://goo.gl/maps/GnQaguvzDvdPdW5W8">Waterville </a> (ME, USA)<br>
-. <a href="https://goo.gl/maps/P91VzKxZWfVFLmzv5">Ho Chi Minh City </a> (Vietnam)<br>
-. <a href="https://goo.gl/maps/TXGsHFNY9wBcmhKG9">Namyangju </a> (S. Korea)<br>
-. <a href="https://goo.gl/maps/zRvKVVgGj1BgAcao9">Columbia </a> (MO, USA)<br>
+. <a href="https://goo.gl/maps/eefhzatKQrN4M8Fg6" target="_blank">Seoul</a> (S. Korea) <br>
+. <a href="https://goo.gl/maps/A6NWSttJozkKNAWWA" target="_blank">Concordia</a> (MO, USA)<br>
+. <a href="https://goo.gl/maps/wGnR9ggN5DRXt5KX7" target="_blank">Dover-Foxcroft</a> (ME, USA)<br>
+. <a href="https://goo.gl/maps/GnQaguvzDvdPdW5W8" target="_blank">Waterville </a> (ME, USA)<br>
+. <a href="https://goo.gl/maps/P91VzKxZWfVFLmzv5" target="_blank">Ho Chi Minh City </a> (Vietnam)<br>
+. <a href="https://goo.gl/maps/TXGsHFNY9wBcmhKG9" target="_blank">Namyangju </a> (S. Korea)<br>
+. <a href="https://goo.gl/maps/zRvKVVgGj1BgAcao9" target="_blank">Columbia </a> (MO, USA)<br>
 
 ### Things I like: 
 
