@@ -5,15 +5,24 @@ I have worked as a graphic designer at the University of Missouri College of Edu
 These are some of the examples of my design work :)
 
 **E-screens** <br>
-<img src="namyeon.github.io/A Rwandan Study-01.jpg"> <br>
-<img src="namyeon.github.io/Drive-01.jpg">
+<img src="namyeon.github.io/1.png"> <br>
+<img src="namyeon.github.io/2.png">
+<br>
+**Brochures**<br>
+<img src="namyeon.github.io/7.png"> <br>
+<img src="namyeon.github.io/6.png">
+<br>
 
-**Brochures**
+**(Post)cards**  <br> 
 
-**Logo design**
+<img src="namyeon.github.io/3.png"> <br>
+<img src="namyeon.github.io/4.png"> <br>
+<img src="namyeon.github.io/4.5.png"> <br>
 
-**(Post)cards**  
-
-**Posters**
+**Posters** <br> 
+<img src="namyeon.github.io/5.png"> <br>
+<img src="namyeon.github.io/8.png"> <br>
 
 **Campagin book** 
+
+**Logo design**
