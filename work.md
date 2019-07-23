@@ -5,9 +5,12 @@ I have worked as a graphic designer at the University of Missouri College of Edu
 These are some of the examples of my design work :)
 
 **E-screens** <br>
+<img src="namyeon.github.io/9.png"> <br>
+<img src="namyeon.github.io/10.png"> <br> 
 <img src="namyeon.github.io/1.png"> <br>
 <img src="namyeon.github.io/2.png">
 <br>
+
 **Brochures**<br>
 <img src="namyeon.github.io/7.png"> <br>
 <img src="namyeon.github.io/6.png">
@@ -15,9 +18,9 @@ These are some of the examples of my design work :)
 
 **(Post)cards**  <br> 
 
-<img src="namyeon.github.io/3.png"> <br>
 <img src="namyeon.github.io/4.png"> <br>
 <img src="namyeon.github.io/4.5.png"> <br>
+<img src="namyeon.github.io/3.png"> <br>
 
 **Posters** <br> 
 <img src="namyeon.github.io/5.png"> <br>
