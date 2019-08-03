@@ -52,9 +52,9 @@ My dissertation work looks at how to develop strategies that science communicati
 
 ### In the past,
 
-I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://namyeon.github.io/work.html">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. For instance, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 2]. I also previously worked for a nonprofit organization, Slow Food Korea, as a public relations specialist and completed in several international internships: I have interned for McCann Worldgroup in Japan and the Ministry of Foreign Affairs of South Korea in Vietnam. 
+I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://namyeon.github.io/work.html">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. Most recently, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 2]. I also compared effects of infogrpahics, photo, and text-based messages in GM foods and bioengineering news [IP. 1]. 
 
-I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018.  I also served as the teaching assistant for two undergraduate courses, Strategic Communication Research Methods and Strategic Writing and Design.  
+As a teacher, I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018 and served as the teaching assistant for two undergraduate courses, Strategic Communication Research Methods and Strategic Writing and Design.  
 
 <br>
 <br>
