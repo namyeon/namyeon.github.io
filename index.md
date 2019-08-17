@@ -10,7 +10,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 *   [j. 3] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., **Lee, N.,** . . . Watts, A. (in press). Foundations of Arrogance: A Broad Survey. _Review of General Psychology._ 
 
-*   [j. 2] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (accepted for publication, pending revisions). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior_
+*   [j. 2] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (under 3rd round review). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior_
 
 *   [j.1] Jahng, M. R., **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
 
