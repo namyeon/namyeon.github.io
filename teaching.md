@@ -9,7 +9,7 @@ These are some of syllabi of the coureses that I previsouly taught, either as an
 
 * Fall 2019: <a href="https://namyeon.github.io/J4952_Fall19.pdf" target="_blank">**Strategic Communication Research Method (J4952)**</a> 
 
-* Spring 2019: <a href="https://namyeon.github.io/J4204_Spring19" target="_blank">**Strategic Writing and Design (J4204)**</a> 
+* Spring 2019: <a href="https://namyeon.github.io/J4204_Spring19.pdf" target="_blank">**Strategic Writing and Design (J4204)**</a> 
 
 * Fall 2018: <a href="https://namyeon.github.io/J4952_Fall18.pdf" target="_blank">**Strategic Communication Research Method (J4952)**</a> 
 
