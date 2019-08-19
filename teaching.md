@@ -7,14 +7,13 @@ The Missouri School of Journalism is known for <a href="https://journalism.misso
 
 These are some of syllabi of the coureses that I previsouly taught, either as an instructor or as a teaching assistant. 
 
-* Fall 2019: [**Strategic Communication Research Method (J4952)**](./tree/master/docs/J4204_Spring19.pdf)
+* Fall 2019: <a href="https://namyeon.github.io/J4952_Fall19.pdf" target="_blank">[**Strategic Communication Research Method (J4952)**]</a> 
 
-* Spring 2019: [**Strategic Writing and Design (J4204)**](./tree/master/docs/J4204_Spring19.pdf)
+* Spring 2019: <a href="https://namyeon.github.io/J4204 Lab 1A Syllabus Spring 2019.pdf" target="_blank">[**Strategic Writing and Design (J4204)**]</a> 
 
-* Fall 2018: [**Strategic Communication Research Method (J4952)**](./tree/master/docs/J4952_Fall18.pdf)  
+* Fall 2018: <a href="https://namyeon.github.io/Lee_J4952_Fall18.pdf" target="_blank">[**Strategic Communication Research Method (J4952)**]</a> 
 
-* Fall 2017 [**Strategic Communication Research Method (J4952)**](./tree/master/docs/J4204_Spring19.pdf) 
-
+* Fall 2017: <a href="https://namyeon.github.io/J4952 Syllabus.pdf" target="_blank">[**Strategic Communication Research Method (J4952)**]</a>
 
 
 [back](./)
