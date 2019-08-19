@@ -7,6 +7,8 @@ The Missouri School of Journalism is known for <a href="https://journalism.misso
 
 These are some of syllabi of the coureses that I previsouly taught, either as an instructor or as a teaching assistant. 
 
+* Fall 2019: [**Strategic Communication Research Method (J4952)**](./tree/master/docs/J4204_Spring19.pdf)
+
 * Spring 2019: [**Strategic Writing and Design (J4204)**](./tree/master/docs/J4204_Spring19.pdf)
 
 * Fall 2018: [**Strategic Communication Research Method (J4952)**](./tree/master/docs/J4952_Fall18.pdf)  
