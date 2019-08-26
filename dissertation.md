@@ -1,6 +1,6 @@
 
 
-## Research Statement 
+## Research Statement-ish 
 My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information. Two specific questions are addressed: 
 
 1. How can we increase public engagement with science and what potential **message elements** can be employed to ease the cognitive burden of the public? and 
