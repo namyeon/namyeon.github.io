@@ -1,4 +1,4 @@
-* Note: This tab is still in progress.
+_Note: This page is still in progress.
 
 ## Graphic Designs 
 
