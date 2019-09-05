@@ -2,6 +2,8 @@
 
 ## About Me
 
+<img src="https://namyeon.github.io/namyeon.jpg">
+<br>
 My name is Namyeon (pronounced as "_nahm-yun_"). Originally from Seoul, South Korea, I came to the United States in 2006 through a high school exchange student program. I completed my undergraduate study and master’s work at the University of Missouri School of Journalism (MA ‘16, BJ ‘14) and will complete my PhD in Spring 2020. 
 
 ### Places I've lived: 
