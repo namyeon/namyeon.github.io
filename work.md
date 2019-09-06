@@ -3,8 +3,6 @@ _Note: This page is still in progress._
 In addition to my research and teaching experience, past experience as a graphic designer for MU’s College of Education informed my research on theory-driven message strategies for targeted audiences. For instance, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation. My dissertation tests how video- and photo-based scientific news affect audiences’ cognitive and behavioral responses. In addition, I previously worked for a nonprofit organization, Slow Food Korea, as a public relations specialist and completed in several international internships during the course of my education. I have interned for McCann Worldgroup in Japan and the Ministry of Foreign Affairs of South Korea in Vietnam. 
 
 
-## Graphic Designs 
-
 These are some of the examples of my design work :)
 
 ### Experimental Stimuli messages <br>
