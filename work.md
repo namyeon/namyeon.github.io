@@ -12,6 +12,9 @@ These are some of the examples of my design work :)
 [IP. 2] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation.
 <img src="namyeon.github.io/stim2.png"> <br>
 
+[c.4] Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators.<br>
+<img src="namyeon.github.io/stim3.png"> <br>
+
 
 ### E-screens<br>
 <img src="namyeon.github.io/10.png"> <br>
