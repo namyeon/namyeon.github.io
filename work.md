@@ -6,6 +6,11 @@ In addition to my research and teaching experience, past experience as a graphic
 These are some of the examples of my design work :)
 
 ### Experimental Stimuli messages <br>
+[IP. 1] Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. <br>
+<img src="namyeon.github.io/stim1.png"> <br>
+
+[IP. 2] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation.
+
 
 ### E-screens<br>
 <img src="namyeon.github.io/10.png"> <br>
