@@ -9,8 +9,11 @@ These are some of the examples of my design work :)
 [IP. 1] Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. <br>
 <img src="namyeon.github.io/stim1.png"> <br>
 
-[IP. 2] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation.
+[IP. 2] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. <br>
 <img src="namyeon.github.io/stim2.png"> <br>
+
+[c.8] Effects of Visual-based Social media messages on Mental Health Symptom Recognition: Mental Health Literacy and Social Media Use as Moderators.<br>
+<img src="namyeon.github.io/stim4.png"> <br>
 
 [c.4] Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators.<br>
 <img src="namyeon.github.io/stim3.png"> <br>
