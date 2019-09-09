@@ -20,16 +20,10 @@ These are some of the examples of my design work :)
 <img src="namyeon.github.io/2.png">
 <br>
 
-### Brochures<br>
+### Print Designs<br>
 <img src="namyeon.github.io/7.png"> <br>
-<br>
-
-### Postcards  <br> 
-
 <img src="namyeon.github.io/4.5.png"> <br>
 <img src="namyeon.github.io/3.png"> <br>
-
-### Posters <br> 
 <img src="namyeon.github.io/5.png"> <br>
 
 **Campagin book** 
