@@ -31,8 +31,8 @@ These are some of the examples of my design work :)
 <img src="namyeon.github.io/5.png"> <br>
 
 ### Campaign book <br>  
-A strategic marketing plan book for final winning campaign pitch. <br>
-Client: Boone Hospital Foundation **[plan book (pdf)](./Final Planbook 8.125x6.pdf).**
+A strategic marketing **[plan book (pdf)](./Final Planbook 8.125x6.pdf)** for final winning campaign pitch. <br>
+Client: <a href="https://journalism.missouri.edu/">Boone Hospital Foundation.</a> 
 <br>
 <br>
 <br>
