@@ -32,7 +32,7 @@ These are some of the examples of my design work :)
 
 ### Campaign book <br>  
 A strategic marketing **[plan book (pdf)](./Final Planbook 8.125x6.pdf)** for final winning campaign pitch. <br>
-Client: <a href="https://journalism.missouri.edu/">Boone Hospital Foundation.</a> 
+Client: <a href="https://www.boone.org/foundation" target="_blank">Boone Hospital Foundation.</a> 
 <br>
 <br>
 <br>
