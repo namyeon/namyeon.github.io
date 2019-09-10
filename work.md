@@ -33,7 +33,4 @@ These are some of the examples of my design work :)
 <img src="namyeon.github.io/5.png"> <br>
 
 ### Campagin book <br>  
-Advertising Campaign Plan Book for the client, Boone Hostpial Foundation **[plan book(pdf)](./Final Planbook 8.125x6.pdf).**  
-
-
-**Logo design**
+Advertising Campaign Plan Book for the client, Boone Hostpial Foundation **[plan book (pdf)](./Final Planbook 8.125x6.pdf).**  
