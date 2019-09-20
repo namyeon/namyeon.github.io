@@ -28,7 +28,7 @@ Or find me on other online presences:
 . <a href="https://www.instagram.com/namyeon.lee/">Instagram</a> <br>
 . <a href="https://www.facebook.com/namyeon.lee"> Facebook</a><br>
 . <a href="https://scholar.google.com/citations?user=e9AxEE4AAAAJ&hl=en"> Google scholar</a> <br>
-. <a href="https://honeycrisps.tistory.com">Personal Blog</a> (Korean)<br>
+
 
 
 [back](./)
