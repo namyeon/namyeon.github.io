@@ -7,7 +7,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 ### Journal Articles:
 
-*   [j. 3] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., **Lee, N.,** . . . Watts, A. (in press). Foundations of Arrogance: A Broad Survey. _Review of General Psychology._ 
+*   [j. 3] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., **Lee, N.,** . . . Watts, A. (2019). Foundations of Arrogance: A Broad Survey. _Review of General Psychology._ <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
 
 *   [j. 2] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (accepted for publication, pending revisions). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior_
 
