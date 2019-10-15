@@ -1,6 +1,6 @@
 I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-Here's my **[cv (pdf)](./Lee_CV_082419.pdf).**  
+Here's my **[cv (pdf)](./Lee_CV_092019.pdf).**  
 
 My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information.
 * * *
