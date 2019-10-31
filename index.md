@@ -17,9 +17,9 @@ My dissertation work looks at how to develop strategies that science communicati
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Mental Health & Prevention._
+*   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
 
-*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. 
+*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
 *   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. 
 
