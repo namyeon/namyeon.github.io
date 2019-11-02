@@ -21,7 +21,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
-*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. 
+*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Expected journal for submission: Journal of Health Communication_
 
 * * *
 
