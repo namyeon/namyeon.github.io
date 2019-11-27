@@ -2,7 +2,7 @@ I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_
 
 Here's my **[cv (pdf)](./Lee_CV_092019.pdf).**  
 
-My dissertation work looks at how to develop strategies that science communication scholars and practitioners can use to increase public awareness of and engagement in scientific information.
+My dissertation work looks at how to develop message strategies that health communication scholars and practitioners can use to increase public awareness of and engagement in evidence-based health news.
 * * *
 
 ### Journal Articles:
@@ -24,7 +24,7 @@ My dissertation work looks at how to develop strategies that science communicati
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
-*   [IP. 1] Zhu, D., Lee, S., & **Lee, N.,** (2019). The Influence of Opinion Congruence and Incivility on Visual Attention to Onlne Comments: An Eye-tracking study. 
+*   [IP. 1] Zhu, D., Lee, S., & **Lee, N.,** (2019). The Influence of Opinion Congruence and Incivility on Visual Attention to Online Comments: An Eye-tracking study. 
 
 ### Conference Papers:
 
