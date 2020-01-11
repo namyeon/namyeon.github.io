@@ -21,7 +21,7 @@ My name is Namyeon (pronounced as "_nahm-yawn_"). Originally from Seoul, South K
 . mossy woods & big rivers<br>
 . MCU movies<br>
 
-If you're interested in my research, then let's talk - namyeonlee [at] mizzou [dot] edu. 
+If you're interested in my work, then let's talk - namyeonlee [at] mizzou [dot] edu. 
 Or find me on other online presences: 
 
 . <a href="https://www.twitter.com/namyeon_lee/">Twitter</a> <br>
