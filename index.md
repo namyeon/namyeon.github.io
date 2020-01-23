@@ -20,7 +20,7 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (under review). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
 
-*   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
+*   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
@@ -28,13 +28,13 @@ My dissertation work looks at how to develop message strategies that health comm
 
 ### Conference Papers:
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2019). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Submitted to the International Communication Association, Gold Coast, Australia. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2019). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Accepted to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Submitted to the International Communication Association, Gold Coast, Australia. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Accepted to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2019). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Submitted to the International Communication Association, Gold Coast, Australia. 
+*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2019). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Accepted to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Accepted to American Public Health Association Conference, Washington, DC. 
+*   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
 
 *   [c.9] **Lee, N.,** Lee, S., & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. Presented to the Association for Education in Journalism and Mass Communication, Toronto, Canada. 
 
