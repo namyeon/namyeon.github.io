@@ -18,7 +18,7 @@ My dissertation work looks at how to develop message strategies that health comm
 ### Journal Manuscripts in Progress:
 
 
-*   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (under review). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
+*   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (revise and resubmit). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
 
 *   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
 
