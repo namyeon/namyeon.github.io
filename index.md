@@ -30,11 +30,11 @@ My dissertation work looks at how to develop message strategies that health comm
 
 ### Conference Papers:
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2019). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Accepted to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Accepted to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2019). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Accepted to the International Communication Association, Gold Coast, Australia. 
 
 *   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
 
