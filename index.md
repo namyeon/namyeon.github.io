@@ -18,13 +18,15 @@ My dissertation work looks at how to develop message strategies that health comm
 ### Journal Manuscripts in Progress:
 
 
-*   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (revise and resubmit). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
+*   [IP. 5] Lee, S., **Lee, N.,** & Dockter, C. (revise and resubmit). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
 
-*   [IP. 3] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
+*   [IP. 4] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Expected journal for submission: Health Communication_
 
-*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2019). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
+*   [IP. 3] **Lee, N.,** Lee, S. (2020). The Role of Infographics in Communicating Science: Prior Knowledge and Prior Attitudes as Moderators. _Expected journal for submission: Communication Research Reports_
 
-*   [IP. 1] Zhu, D., Lee, S., & **Lee, N.,** (2019). The Influence of Opinion Congruence and Incivility on Visual Attention to Online Comments: An Eye-tracking study. 
+*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
+
+*   [IP. 1] Zhu, D., Lee, S., & **Lee, N.,** (2020). The Influence of Opinion Congruence and Incivility on Visual Attention to Online Comments: An Eye-tracking study. 
 
 ### Conference Papers:
 
