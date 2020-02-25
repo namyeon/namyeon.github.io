@@ -2,7 +2,7 @@ I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_
 
 Here's my **[cv (pdf)](./Lee_CV_012020.pdf).**  
 
-My dissertation work looks at how to develop message strategies that health communication scholars and practitioners can use to increase public awareness of and engagement in evidence-based health news.<i><a href="https://namyeon.github.io/dissertation.html">Read more</a></i> 
+My dissertation work looks at how to develop message strategies that health communication scholars and practitioners can use to increase public awareness of and engagement in evidence-based health news. <i><a href="https://namyeon.github.io/dissertation.html">Read more</a></i> 
 * * *
 
 ### Journal Articles:
