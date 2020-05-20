@@ -9,7 +9,7 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (accepted). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication._
 
-*   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2019). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior._ Advance online publication. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
+*   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2020). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior._ Advance online publication. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
 
 *   [j. 2] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., **Lee, N.,** . . . Watts, A. (2019). Foundations of Arrogance: A Broad Survey. _Review of General Psychology._ Advance online publication. <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
 
