@@ -1,11 +1,13 @@
 I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-Here's my **[cv (pdf)](./Lee_CV_012020.pdf).**  
+Here's my **[cv (pdf)](./Lee_CV_051920.pdf).**  
 
 My dissertation work looks at how to develop message strategies that health communication scholars and practitioners can use to increase public awareness of and engagement in evidence-based health news. <i><a href="https://namyeon.github.io/dissertation.html">Read more</a></i> 
 * * *
 
 ### Journal Articles:
+
+*   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (accepted). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
 
 *   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2019). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior._ Advance online publication. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
 
@@ -17,16 +19,14 @@ My dissertation work looks at how to develop message strategies that health comm
 
 ### Journal Manuscripts in Progress:
 
-
-*   [IP. 5] Lee, S., **Lee, N.,** & Dockter, C. (2nd round revise and resubmit). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication_
-
 *   [IP. 4] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine_
 
 *   [IP. 3] **Lee, N.,** Lee, S. (2020). Visualizing Science: The Role of Infographics and Individual Differences. _Expected journal for submission: Communication Research Reports_
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
-*   [IP. 1] Zhu, D., Lee, S., & **Lee, N.,** (2020). The Influence of Opinion Congruence and Incivility on Visual Attention to Online Comments: An Eye-tracking study. 
+*   [IP. 1] **Lee, N.** (2020). Communicating Visualized Scientific Agreement: Effects of Consensus Message on Similarity Judgement and Purchase Intention on GM Food. _Expected journal for submission: Science Communication.
+
 
 ### Conference Papers:
 
