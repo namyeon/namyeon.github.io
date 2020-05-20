@@ -42,7 +42,7 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [c.8] **Lee, N.,** Buchanan, K., Carroll, S., & Kehinde, O. (2019). Effects of Visual-based Social media messages on Mental Health Symptom Recognition: Mental Health Literacy and Social Media Use as Moderators. Presented to the International Public Relations Research Conference, Orlando, FL. 
 
-*   [c.7] **Lee, N.,** Lee, S. (2018). Attitude and Risk Perception to Genetically Modified (GM) Food Products: The Influence of Consensus Message, Graphical Representations, and HBM Variables. Presented to the International Communication Association, Prague, Czech Republic. 
+*   [c.7] **Lee, N.,** & Lee, S. (2018). Attitude and Risk Perception to Genetically Modified (GM) Food Products: The Influence of Consensus Message, Graphical Representations, and HBM Variables. Presented to the International Communication Association, Prague, Czech Republic. 
 
 *   [c.6] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2018). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. Presented to the International Communication Association, Prague, Czech Republic. 
 
