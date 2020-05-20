@@ -13,7 +13,7 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [j. 2] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., Dockter, C., ... & **Lee, N.** (2019). Foundations of Arrogance: A Broad Survey. _Review of General Psychology,_ 23(4), 425-443. <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
 
-*   [j.1] Jahng, M. R., **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
+*   [j.1] Jahng, M. R., & **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
 
 * * *
 
@@ -21,7 +21,7 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [IP. 4] **Lee, N.,** Buchanan, K., & Yu, M. (under review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine_
 
-*   [IP. 3] **Lee, N.,** Lee, S. (2020). Visualizing Science: The Role of Infographics and Individual Differences. _Expected journal for submission: Communication Research Reports_
+*   [IP. 3] **Lee, N.,** & Lee, S. (2020). Visualizing Science: The Role of Infographics and Individual Differences. _Expected journal for submission: Communication Research Reports_
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
@@ -48,13 +48,13 @@ My dissertation work looks at how to develop message strategies that health comm
 
 *   [c.5] Won, J., **Lee, N.,** & Lee, S. (2018). Effects of expressing emotion and altering logo color in organizational crisis responses. Presented to the International Public Relations Research Conference, Orlando, FL. 
 
-*   [c.4] **Lee, N.,** Lee, S. (2017). Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators. Presented to the International Communication Association, San Diego, CA 
+*   [c.4] **Lee, N.,** & Lee, S. (2017). Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators. Presented to the International Communication Association, San Diego, CA 
 
-*   [c.3] Jahng, M. R., **Lee, N.** (2017). When scientists tweet for social changes: Dialogic communication and collective mobilization strategies by Flint Water Study scientists on Twitter. Presented to the International Communication Association, San Diego, CA. 
+*   [c.3] Jahng, M. R., & **Lee, N.** (2017). When scientists tweet for social changes: Dialogic communication and collective mobilization strategies by Flint Water Study scientists on Twitter. Presented to the International Communication Association, San Diego, CA. 
 
 *   [c.2] Lee, S., Johnson, E., & **Lee, N.** (2016). The impact of risk perception on responses to misleading food label claim. Presented to the International Communication Association, Fukuoka, Japan. 
 
-*   [c.1] Park, E., **Lee, N.** (2015). Dealing with misinformation in a health crisis situation: Effects of Inoculation messages and the tone of voice in Ebola virus communication. Presented to the International Public Relations Research Conference, Miami, FL.
+*   [c.1] Park, E., & **Lee, N.** (2015). Dealing with misinformation in a health crisis situation: Effects of Inoculation messages and the tone of voice in Ebola virus communication. Presented to the International Public Relations Research Conference, Miami, FL.
 
 * * * 
 
