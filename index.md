@@ -19,9 +19,9 @@ My dissertation work looks at how to develop message strategies that health comm
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 4] **Lee, N.,** Buchanan, K., & Yu, M. (under revision). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine_
+*   [IP. 4] **Lee, N.,** Buchanan, K., & Yu, M. (under 2nd round review). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine_
 
-*   [IP. 3] **Lee, N.,** & Lee, S. (2020). Visualizing Science: The Role of Infographics and Individual Differences. _Expected journal for submission: Public Understanding of Science_
+*   [IP. 3] **Lee, N.,** & Lee, S. (2020). (under review) Visualizing Science: The Role of Infographics and Individual Differences. _Public Understanding of Science_
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
