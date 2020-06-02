@@ -1,6 +1,6 @@
 I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-Here's my **[cv (pdf)](./Lee_CV_051920.pdf).**  
+Here's my **[cv (pdf)](./Lee_CV_060120.pdf).**  
 
 My dissertation work looks at how to develop message strategies that health communication scholars and practitioners can use to increase public awareness of and engagement in evidence-based health news. <i><a href="https://namyeon.github.io/dissertation.html">Read more</a></i> 
 * * *
