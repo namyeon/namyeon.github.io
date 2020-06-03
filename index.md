@@ -2,7 +2,7 @@ I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_
 
 Here's my **[cv (pdf)](./Lee_CV_060120.pdf).**  
 
-My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different messages features influence audience cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in message development. 
+My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in message development. 
 * * *
 
 ### Journal Articles:
