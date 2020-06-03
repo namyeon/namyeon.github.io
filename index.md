@@ -2,7 +2,7 @@ I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_
 
 Here's my **[cv (pdf)](./Lee_CV_060120.pdf).**  
 
-My dissertation work looks at how to develop message strategies that health communicators can use to increase public awareness of and engagement in scientific research findings. <i><a href="https://namyeon.github.io/dissertation.html">Read more</a></i> 
+My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different messages features influence audience cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics as well. Besides, I also investigate how to utilize information visualization in message development. 
 * * *
 
 ### Journal Articles:
