@@ -25,7 +25,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication_
 
-*   [IP. 1] **Lee, N.** (2020). Consensus Visualization and Health Beliefs: Effects of Consensus Message on Similarity Judgement and Purchase Intention on GM Food. _Expected journal for submission: Science Communication_
+*   [IP. 1] **Lee, N.** (2020). Consensus Visualization and Health Beliefs: Effects of Scientific Consensus on Similarity Judgement and Purchase Intention on GM Food. _Expected journal for submission: Science Communication_
 
 
 ### Conference Papers:
