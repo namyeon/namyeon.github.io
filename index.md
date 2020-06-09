@@ -30,31 +30,31 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Conference Papers:
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020, May 20-27). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
+*   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019, November 2-6). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
 
-*   [c.9] **Lee, N.,** Lee, S., & Dockter, C. (2019). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. Presented to the Association for Education in Journalism and Mass Communication, Toronto, Canada. 
+*   [c.9] **Lee, N.,** Lee, S., & Dockter, C. (2019, August 7-10). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. Presented to the Association for Education in Journalism and Mass Communication, Toronto, Canada. 
 
-*   [c.8] **Lee, N.,** Buchanan, K., Carroll, S., & Kehinde, O. (2019). Effects of Visual-based Social media messages on Mental Health Symptom Recognition: Mental Health Literacy and Social Media Use as Moderators. Presented to the International Public Relations Research Conference, Orlando, FL. 
+*   [c.8] **Lee, N.,** Buchanan, K., Carroll, S., & Kehinde, O. (2019, March 7-9). Effects of Visual-based Social media messages on Mental Health Symptom Recognition: Mental Health Literacy and Social Media Use as Moderators. Presented to the International Public Relations Research Conference, Orlando, FL. 
 
-*   [c.7] **Lee, N.,** & Lee, S. (2018). Attitude and Risk Perception to Genetically Modified (GM) Food Products: The Influence of Consensus Message, Graphical Representations, and HBM Variables. Presented to the International Communication Association, Prague, Czech Republic. 
+*   [c.7] **Lee, N.,** & Lee, S. (2018, May 24-28). Attitude and Risk Perception to Genetically Modified (GM) Food Products: The Influence of Consensus Message, Graphical Representations, and HBM Variables. Presented to the International Communication Association, Prague, Czech Republic. 
 
-*   [c.6] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2018). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. Presented to the International Communication Association, Prague, Czech Republic. 
+*   [c.6] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2018, May 24-28). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. Presented to the International Communication Association, Prague, Czech Republic. 
 
-*   [c.5] Won, J., **Lee, N.,** & Lee, S. (2018). Effects of expressing emotion and altering logo color in organizational crisis responses. Presented to the International Public Relations Research Conference, Orlando, FL. 
+*   [c.5] Won, J., **Lee, N.,** & Lee, S. (2018, March 5-7). Effects of expressing emotion and altering logo color in organizational crisis responses. Presented to the International Public Relations Research Conference, Orlando, FL. 
 
-*   [c.4] **Lee, N.,** & Lee, S. (2017). Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators. Presented to the International Communication Association, San Diego, CA 
+*   [c.4] **Lee, N.,** & Lee, S. (2017, May 25-29). Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators. Presented to the International Communication Association, San Diego, CA 
 
-*   [c.3] Jahng, M. R., & **Lee, N.** (2017). When scientists tweet for social changes: Dialogic communication and collective mobilization strategies by Flint Water Study scientists on Twitter. Presented to the International Communication Association, San Diego, CA. 
+*   [c.3] Jahng, M. R., & **Lee, N.** (2017, May 25-29). When scientists tweet for social changes: Dialogic communication and collective mobilization strategies by Flint Water Study scientists on Twitter. Presented to the International Communication Association, San Diego, CA. 
 
-*   [c.2] Lee, S., Johnson, E., & **Lee, N.** (2016). The impact of risk perception on responses to misleading food label claim. Presented to the International Communication Association, Fukuoka, Japan. 
+*   [c.2] Lee, S., Johnson, E., & **Lee, N.** (2016, May 9-13). The impact of risk perception on responses to misleading food label claim. Presented to the International Communication Association, Fukuoka, Japan. 
 
-*   [c.1] Park, E., & **Lee, N.** (2015). Dealing with misinformation in a health crisis situation: Effects of Inoculation messages and the tone of voice in Ebola virus communication. Presented to the International Public Relations Research Conference, Miami, FL.
+*   [c.1] Park, E., & **Lee, N.** (2015, March 4-8). Dealing with misinformation in a health crisis situation: Effects of Inoculation messages and the tone of voice in Ebola virus communication. Presented to the International Public Relations Research Conference, Miami, FL.
 
 * * * 
 
