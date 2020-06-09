@@ -7,7 +7,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Articles:
 
-*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (accepted). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine_
+*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (accepted). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (accepted). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication._
 
