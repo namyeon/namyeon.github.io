@@ -5,7 +5,7 @@ Here's my **[cv (pdf)](./Lee_CV_060120.pdf).**
 My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in the message development. 
 * * *
 
-### Journal Articles:
+### Refereed Journal Articles:
 
 *   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (in press). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._
 
