@@ -11,11 +11,11 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (accepted). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication._
 
-*   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2020). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior,_ 104, 106159. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
+*   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2020). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior,_ _104,_ 106159. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
 
-*   [j. 2] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., Dockter, C., ... & **Lee, N.** (2019). Foundations of Arrogance: A Broad Survey. _Review of General Psychology,_ 23(4), 425-443. <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
+*   [j. 2] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., Dockter, C., ... & **Lee, N.** (2019). Foundations of Arrogance: A Broad Survey. _Review of General Psychology,_ _23_(4), 425-443. <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
 
-*   [j.1] Jahng, M. R., & **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ 40(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
+*   [j.1] Jahng, M. R., & **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ _40_(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
 
 * * *
 
@@ -30,11 +30,11 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Conference Papers:
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Gold Coast, Australia. 
 
-*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Accepted to the International Communication Association, Gold Coast, Australia. 
+*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Gold Coast, Australia. 
 
 *   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
 
