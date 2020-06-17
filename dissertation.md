@@ -1,7 +1,7 @@
 
 
 ## Research 
-<img src="namyeon.github.io/stim1.png"> <br>
+<img src="namyeon.github.io/construction.gif"> <br>
 
 [back](./)
 
