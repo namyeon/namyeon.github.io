@@ -21,12 +21,13 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 3] **Lee, N.,** & Lee, S. (under review). Visualizing Science: The Role of Infographics and Individual Differences. _Public Understanding of Science._
+*   [IP. 4] **Lee, N.,** & Lee, S. (under review). Visualizing Science: The Role of Infographics and Individual Differences. _Public Understanding of Science._
+
+*   [IP. 3] **Lee, N.** & Lee, S. (2020). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
 
-*   [IP. 1] **Lee, N.** (2020). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
-
+*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C., (2020). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
 ### Conference Papers:
 
@@ -60,7 +61,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### In the past,
 
-I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://namyeon.github.io/work.html">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. Most recently, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 2]. I also compared effects of infogrpahics, photo, and text-based messages in GM foods and bioengineering news [IP. 3]. 
+I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://namyeon.github.io/work.html">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. Most recently, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 2]. I also compared effects of infogrpahics, photo, and text-based messages in GM foods and bioengineering news [j. 4]. 
 
 As a teacher, I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018, 2019 and served as the teaching assistant for two undergraduate courses, Strategic Communication Research Methods and Strategic Writing and Design.  
 
