@@ -23,9 +23,9 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 5] **Lee, N.,** & Lee, S. (under review). Visualizing Science: The Role of Infographics and Individual Differences. _Public Understanding of Science._
 
-*   [IP. 4] **Lee, N.** & Lee, S. (2020). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
+*   [IP. 4] **Lee, N.** & Lee, S. Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
 
-*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. (2020). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
+*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C., (Data collection process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
