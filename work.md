@@ -16,18 +16,12 @@ These are some of the examples of my design work :)
 [IP. 5] Visualizing science: The role of Infographics and Individual Differences.<br>
 <img src="namyeon.github.io/stim3.png"> <br>
 
-
-### E-screens<br>
+### Print Designs<br>
 <img src="namyeon.github.io/10.png"> <br>
 <img src="namyeon.github.io/1.png"> <br>
-
-<br>
-
-### Print Designs<br>
-<img src="namyeon.github.io/7.png"> <br>
 <img src="namyeon.github.io/5.png"> <br>
 
-### Campaign book <br>  
+### Integrated Marketing Communications campagin book <br>  
 A strategic marketing **[plan book (pdf)](./Final Planbook 8.125x6.pdf)** for final winning campaign pitch. <br>
 Client: <a href="https://www.boone.org/foundation" target="_blank">Boone Hospital Foundation.</a> 
 <br>
