@@ -27,7 +27,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
 
-*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C., (Data collection process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
+*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (Data collection process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
 *   [IP. 1] Zhu, D., Lee, S., & **Lee, N.** (In Preparation). The Influence of Opinion Congruence and Incivility On Visual Attention to Online Comments: An Eye-tracking Study.
 
