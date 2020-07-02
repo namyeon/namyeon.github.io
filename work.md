@@ -1,6 +1,4 @@
-In addition to my research and teaching experience, past experience as a graphic designer informed my research on theory-driven message strategies for targeted audiences. For instance, my previous research on genetically modified (GM) foods news and its presentation type (i.e., text-only, infogrpahics added, photos added), and how it would affect readers risk perception and attitude towards GMOs. 
-<br>
-In addition to my graphic design experiences, I previously worked for a nonprofit organization, Slow Food Korea, as a public relations specialist and completed in several international internships during the course of my education. I have interned for McCann Worldgroup in Japan and the Ministry of Foreign Affairs of South Korea in Vietnam. 
+In addition to my research and teaching experience, past experience as a graphic designer informed my research on theory-driven message strategies for targeted audiences. For instance, my previous research on genetically modified (GM) foods news and its presentation type (i.e., text-only, infogrpahics added, photos added), and how it would affect readers risk perception and attitude towards GMOs. In addition to my graphic design experiences, I previously worked for a nonprofit organization, Slow Food Korea, as a public relations specialist and completed in several international internships during the course of my education. I have interned for McCann Worldgroup in Japan and the Ministry of Foreign Affairs of South Korea in Vietnam. 
 
 These are some of the examples of my design work :)
 
