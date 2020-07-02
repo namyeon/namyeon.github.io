@@ -19,15 +19,12 @@ These are some of the examples of my design work :)
 
 ### E-screens<br>
 <img src="namyeon.github.io/10.png"> <br>
-<img src="namyeon.github.io/9.png"> <br> 
 <img src="namyeon.github.io/1.png"> <br>
-<img src="namyeon.github.io/2.png">
+
 <br>
 
 ### Print Designs<br>
 <img src="namyeon.github.io/7.png"> <br>
-<img src="namyeon.github.io/4.5.png"> <br>
-<img src="namyeon.github.io/3.png"> <br>
 <img src="namyeon.github.io/5.png"> <br>
 
 ### Campaign book <br>  
