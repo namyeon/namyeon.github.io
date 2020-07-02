@@ -4,16 +4,16 @@ In addition to my research and teaching experience, past experience as a graphic
 These are some of the examples of my design work :)
 
 ### Experimental Stimuli messages <br>
-[IP. 1] Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. <br>
+[j. 4] Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. <br>
 <img src="namyeon.github.io/stim1.png"> <br>
 
-[IP. 2] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. <br>
+[IP. 3] Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. <br>
 <img src="namyeon.github.io/stim2.png"> <br>
 
 [c.8] Effects of Visual-based Social media messages on Mental Health Symptom Recognition: Mental Health Literacy and Social Media Use as Moderators.<br>
 <img src="namyeon.github.io/stim4.png"> <br>
 
-[c.4] Effects of Infographics During Science News Processing: Prior Knowledge and Prior Attitude as Moderators.<br>
+[IP. 5] Visualizing science: The role of Infographics and Individual Differences.<br>
 <img src="namyeon.github.io/stim3.png"> <br>
 
 
