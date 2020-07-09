@@ -7,7 +7,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Refereed Journal Articles:
 
-*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (in press). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._
+*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (2020). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._ Advance online publication. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a> 
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (2020). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication._ Advance online publication. <a href="https://doi.org/10.1080/10410236.2020.1787926"> https://doi.org/10.1080/10410236.2020.1787926 </a> 
 
