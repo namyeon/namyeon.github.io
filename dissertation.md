@@ -9,6 +9,7 @@ The dissemination of scientific knowledge to the public has important implicatio
 <img src="namyeon.github.io/j4.png"> <br>
 
 [IP. 5] **Lee, N.**, Lee, S. (under review). Visualizing Science: The Role of Infographics and Individual Differences. _Public Understanding of Science._
+<img src="namyeon.github.io/ip5.png"> <br>
 
 [IP. 4] **Lee, N.**, Lee, S. Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. Expected journal for submission: _Science Communication_
 <img src="namyeon.github.io/ip4.png"> <br>
