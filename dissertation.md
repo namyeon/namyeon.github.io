@@ -15,7 +15,7 @@ The dissemination of scientific knowledge to the public has important implicatio
 <img src="namyeon.github.io/ip4.png"> <br>
 <br> 
  
-### Communicating on Digital Media <br>
+### Communicating Health & Science on Digital Media <br>
 Social media outlets can disseminate critical information to a wider community efficiently. Scientists and health communicators use social media platforms such as Twitter and Instagram to the public that enhance the understanding of science matters and engages more people. I have investigated social media’s role in health and science communication on Twitter (for text-based content) and Instagram (for image-based content) to analyze existing social media content and suggested avenues for further research to promote evidence-based communication techniques tailored to current media platforms. 
 
 [j. 5] **Lee, N.**, Buchanan, K., & Yu, M. (2020). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._ Advance online publication. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a>  <br>
