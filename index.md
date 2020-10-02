@@ -33,11 +33,11 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Conference Papers:
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19. 
 
-*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020, May 20-27). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Gold Coast, Australia. 
+*   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020, May 20-27). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19.  
 
 *   [c.10] **Lee, N.,** Buchanan, K., & Yu, M. (2019, November 2-6). Each Post Matters: A content analysis of #mentalhealth images on Instagram. Presented to the American Public Health Association Conference, Philadeliphia, PA. 
 
