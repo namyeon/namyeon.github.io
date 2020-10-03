@@ -25,7 +25,7 @@ If you're interested in my work, then let's talk - namyeonlee [at] mizzou [dot] 
 Or find me on other online presences: 
 
 . <a href="https://scholar.google.com/citations?user=e9AxEE4AAAAJ&hl=en"> Google scholar</a> <br>
-. <a href="https://orcid.org/0000-0002-1771-0311"> ORCID id</a> <br>
+. <a href="https://orcid.org/0000-0002-1771-0311"> ORCID iD</a> <br>
 . <a href="https://www.twitter.com/namyeon_lee/">Twitter</a> <br>
 . <a href="https://www.instagram.com/namyeon.lee/">Instagram</a> <br>
 . <a href="https://www.facebook.com/namyeon.lee"> Facebook</a><br>
