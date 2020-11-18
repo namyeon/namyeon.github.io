@@ -21,11 +21,11 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 5] **Lee, N.,** & Lee, S. (revised and resubmitted). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
+*   [IP. 5] **Lee, N.,** & Lee, S. (2nd round revise and resubmit). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
 
-*   [IP. 4] **Lee, N.** & Lee, S. Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
+*   [IP. 4] **Lee, N.** & Lee, S. (working paper). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
 
-*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
+*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (Data extracting and analysis process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
