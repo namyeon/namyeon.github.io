@@ -25,7 +25,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 4] **Lee, N.** & Lee, S. (working paper). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
 
-*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. _Expected journal for submission: Health Communication._
+*   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Effects of communication source and racial representation in clinical trial recruitment flyers. _Expected journal for submission: Health Communication._
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (Data analysis process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
