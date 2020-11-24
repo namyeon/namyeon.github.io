@@ -65,7 +65,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://namyeon.github.io/work.html">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. Most recently, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 3]. I also compared effects of infogrpahics, photo, and text-based messages in GM foods and bioengineering news [j. 4]. 
 
-As a teacher, I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018, 2019 and served as the teaching assistant for two undergraduate courses, Strategic Communication Research Methods and Strategic Writing and Design.  
+As a teacher, I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018, 2019 and served as the teaching assistant for three undergraduate/graduate courses, Strategic Communication Research Methods (Undergraduate), Strategic Writing and Design (Undergraduate) and Psychology in Advertising (Undergraduate/Graduate).  
 
 <br>
 <br>
