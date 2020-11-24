@@ -7,6 +7,8 @@ The Missouri School of Journalism is known for <a href="https://en.wikipedia.org
 
 These are some of syllabi of the courses that I previsouly taught, either as an instructor or as a teaching assistant. 
 
+* Fall 2020: <a href="https://namyeon.github.io/J4236_Fall20.pdf" target="_blank">**Psychology in Advertising (J4236/J7236)**</a> 
+
 * Fall 2019: <a href="https://namyeon.github.io/J4952_Fall19.pdf" target="_blank">**Strategic Communication Research Method (J4952)**</a> 
 
 * Spring 2019: <a href="https://namyeon.github.io/J4204_Spring19.pdf" target="_blank">**Strategic Writing and Design (J4204)**</a> 
