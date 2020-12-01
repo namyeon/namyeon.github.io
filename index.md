@@ -35,7 +35,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [c.15] **Lee, N.,** & Lee, S. The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators. Submitted to the Information Systems Division of the International Communication Association.
 
-*   [c.14] **Lee, N.,** & Lee, S. (2020, May 20-27). Communicating research findings on substance use: Effects of inoculation messages, information sources, and visual representations. Submitted to the Information Systems Division of the International Communication Association.
+*   [c.14] **Lee, N.,** & Lee, S. Communicating research findings on substance use: Effects of inoculation messages, information sources, and visual representations. Submitted to the Information Systems Division of the International Communication Association.
 
 *   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19. 
 
