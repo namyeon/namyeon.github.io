@@ -27,7 +27,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 3] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Effects of communication source and racial representation in clinical trial recruitment flyers. _Expected journal for submission: Health Communication._
 
-*   [IP. 2] Zhu, D., Lee, S., & **Lee, N.** (working paper). The Influence of Opinion Congruence and Incivility On Visual Attention to Online Comments: An Eye-tracking Study.
+*   [IP. 2] Zhu, D., Lee, S., & **Lee, N.** (working paper). The Influence of Opinion Congruence and Incivility On Visual Attention to Online Comments: An Eye-tracking Study. _Expected journal for submission: International Journal of Human Computer Interaction._ 
 
 *   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (Data analysis process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
 
