@@ -9,7 +9,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (2020). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._ Advance online publication. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a> 
 
-*   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (2020). Effects of Message Presentation Type on GM food Risk Perception, Similarity Judgement, and Attitude. _Health Communication._ Advance online publication. <a href="https://doi.org/10.1080/10410236.2020.1787926"> https://doi.org/10.1080/10410236.2020.1787926 </a> 
+*   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (2020). Effects of message presentation type on GM food risk perception, similarity judgement, and attitude. _Health Communication._ Advance online publication. <a href="https://doi.org/10.1080/10410236.2020.1787926"> https://doi.org/10.1080/10410236.2020.1787926 </a> 
 
 *   [j. 3] Hong, S., Jahng, M. R., **Lee, N.,** & Wise, K. (2020). Do you filter who you are?: Manipulative self-presentation, social cues, and user evaluations of Instagram selfies. _Computers in Human Behavior,_ _104,_ 106159. <a href="https://www.sciencedirect.com/science/article/pii/S0747563219303711"> https://doi.org/10.1016/j.chb.2019.106159 </a> 
 
