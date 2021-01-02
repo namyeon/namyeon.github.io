@@ -7,7 +7,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Refereed Journal Articles:
 
-*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (2020). Each Post Matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._ Advance online publication. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a> 
+*   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (2020). Each post matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine._ Advance online publication. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a> 
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (2020). Effects of message presentation type on GM food risk perception, similarity judgement, and attitude. _Health Communication._ Advance online publication. <a href="https://doi.org/10.1080/10410236.2020.1787926"> https://doi.org/10.1080/10410236.2020.1787926 </a> 
 
@@ -15,7 +15,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [j. 2] Cowan, N., Adams, E., Bhangal, S., Corcoran, M., Decker, R., Dockter, C., ... & **Lee, N.** (2019). Foundations of Arrogance: A Broad Survey and Framework for Research. _Review of General Psychology,_ _23_(4), 425-443. <a href="https://doi.org/10.1177/1089268019877138"> https://doi.org/10.1177/1089268019877138 </a> 
 
-*   [j.1] Jahng, M. R., & **Lee, N.** (2018). When Scientists Tweet for Social Changes: Dialogic Communication and Collective Mobilization Strategies by Flint Water Study Scientists on Twitter. _Science Communication,_ _40_(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
+*   [j.1] Jahng, M. R., & **Lee, N.** (2018). When scientists tweet for social changes: Dialogic communication and collective mobilization strategies by Flint Water Study scientists on Twitter. _Science Communication,_ _40_(1), 89-108. <a href=" https://doi.org/10.1177/1075547017751948"> https://doi.org/10.1177/1075547017751948 </a>  
 
 * * *
 
@@ -25,11 +25,11 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (Under review). Effects of communication source and racial representation in clinical trial recruitment flyers. _Health Communication._
 
-*   [IP. 3] **Lee, N.** & Lee, S. (working paper). Effects of Scientific Consensus and Visualization on Attitude Change, Similarity Judgement, and Purchase Intention on GM Food: Health Beliefs as Moderators. _Expected journal for submission: Science Communication._
+*   [IP. 3] **Lee, N.** & Lee, S. (working paper). Effects of scientific consensus and visualization on attitude change, similarity judgement, and purchase intention on GM Food: Health beliefs as moderators. _Expected journal for submission: Science Communication._
 
-*   [IP. 2] Zhu, D., Lee, S., & **Lee, N.** (working paper). The Influence of Opinion Congruence and Incivility On Visual Attention to Online Comments: An Eye-tracking Study. _Expected journal for submission: International Journal of Human Computer Interaction._ 
+*   [IP. 2] Zhu, D., Lee, S., & **Lee, N.** (working paper). The influence of opinion congruence and incivility on visual attention to online comments: An eye-tracking study. _Expected journal for submission: International Journal of Human Computer Interaction._ 
 
-*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (Data analysis process). Effects of Popularity Cues in Health News: An Eye-Tracking Study. 
+*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (Data analysis process). Effects of popularity cues in health news: An eye-tracking study. 
 
 ### Conference Papers:
 
