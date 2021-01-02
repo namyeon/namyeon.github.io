@@ -21,7 +21,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 5] **Lee, N.,** & Lee, S. (3rd round revise and resubmit). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
+*   [IP. 5] **Lee, N.,** & Lee, S. (Under 3rd round review). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
 
 *   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (Under review). Effects of communication source and racial representation in clinical trial recruitment flyers. _Health Communication._
 
