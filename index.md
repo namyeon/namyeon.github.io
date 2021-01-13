@@ -33,13 +33,13 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Conference Papers:
 
-*   [c.15] **Lee, N.,** & Lee, S. The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators. Submitted to the Information Systems Division of the International Communication Association.
+*   [c.15] **Lee, N.,** & Lee, S. (2021, May 27-31). The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators. Accepted to the International Communication Association, Virtual Conference. 
 
-*   [c.14] **Lee, N.,** & Lee, S. Communicating research findings on substance use: Effects of inoculation messages, information sources, and visual representations. Submitted to the Information Systems Division of the International Communication Association.
+*   [c.14] **Lee, N.,** & Lee, S. (2021, May 27-31). Communicating research findings on substance use: Effects of inoculation messages, information sources, and visual representations. Accepted to the International Communication Association, Virtual Conference. 
 
-*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19. 
+*   [c.13] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Effects of Popularity Cues in Health News: An Eye-Tracking Study. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual conference due to COVID-19. 
 
-*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19. 
+*   [c.12] **Lee, N.,** Dockter, C., & Lee, S. (2020, May 20-27). Engaging African-American Population in Clinical Trials: Effects of Communication Source and Racial Representation. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual conference due to COVID-19. 
 
 *   [c.11] Dockter, C., **Lee, N.,** Hong, Y., & Lee, S. (2020, May 20-27). Cognitive and Emotional Processing of Instagram Posts: The Impact of Thin vs. Overweight Body Portrayals. Presented to the International Communication Association, Converted from Gold Coast, Australia to virtual due to COVID-19.  
 
