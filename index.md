@@ -1,6 +1,6 @@
 I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-Here's my **[cv (pdf)](./Lee_CV_103120.pdf)** and <a href="https://nlgwc.myportfolio.com/work" target="_blank"> **multimedia portfolifo (link) ** </a>.  
+Here's my **[cv (pdf)](./Lee_CV_103120.pdf)** and <a href="https://nlgwc.myportfolio.com/work" target="_blank"> multimedia portfolifo (link) </a>.  
 
 My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in the message development by using eye-tracking devices and software.
 * * *
