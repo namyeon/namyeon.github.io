@@ -21,15 +21,17 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 5] **Lee, N.,** & Lee, S. (Under 3rd round review). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
+*   [IP. 6] **Lee, N.,** & Lee, S. (Under 3rd round review). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
 
-*   [IP. 4] Lee, S., **Lee, N.,** & Dockter, C. (Under review). Effects of communication source and racial representation in clinical trial recruitment flyers. _Health Communication._
+*   [IP. 5] Lee, S., **Lee, N.,** & Dockter, C. (revise and resubmit process). Effects of communication source and racial representation in clinical trial recruitment flyers. _Health Communication._
 
-*   [IP. 3] **Lee, N.** & Lee, S. (working paper). Effects of scientific consensus and visualization on attitude change, similarity judgement, and purchase intention on GM Food: Health beliefs as moderators. _Expected journal for submission: Science Communication._
+*   [IP. 4] **Lee, N.** & Lee, S. (working paper). Effects of scientific consensus and visualization on attitude change, similarity judgement, and purchase intention on GM Food: Health beliefs as moderators. _Expected journal for submission: Science Communication._
 
-*   [IP. 2] Zhu, D., Lee, S., & **Lee, N.** (working paper). The influence of opinion congruence and incivility on visual attention to online comments: An eye-tracking study. _Expected journal for submission: International Journal of Human Computer Interaction._ 
+*   [IP. 3] Zhu, D., Lee, S., & **Lee, N.** (working paper). The influence of opinion congruence and incivility on visual attention to online comments: An eye-tracking study. _Expected journal for submission: International Journal of Human Computer Interaction._ 
 
-*   [IP. 1] Lee, S., **Lee, N.,** & Dockter, C. (Data analysis process). Effects of popularity cues in health news: An eye-tracking study. 
+*   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Effects of popularity cues in health news: An eye-tracking study. 
+
+*   [IP. 1] **Lee, N.,** & Lee, s. (data collection process). The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators.
 
 ### Conference Papers:
 
