@@ -31,7 +31,7 @@ My research interest is developing and evaluating effective mediated messages, s
 
 *   [IP. 2] Lee, S., **Lee, N.,** & Dockter, C. (working paper). Effects of popularity cues in health news: An eye-tracking study. 
 
-*   [IP. 1] **Lee, N.,** & Lee, s. (data collection process). The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators.
+*   [IP. 1] **Lee, N.,** & Lee, S. (data collection process). The Impact of news frames and perceived visual intensity in cell-cultured meat communication: Eating habits and sensation seeking as moderators.
 
 ### Conference Papers:
 
