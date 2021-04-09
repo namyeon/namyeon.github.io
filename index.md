@@ -7,6 +7,8 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Refereed Journal Articles:
 
+*   [j. 6] **Lee, N.,** & Lee, S. (accepted). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
+
 *   [j. 5] **Lee, N.,** Buchanan, K., & Yu, M. (2020). Each post matters: A content analysis of #mentalhealth images on Instagram. _Journal of Visual Communication in Medicine,_ _43_(3), 128-138. <a href="https://doi.org/10.1080/17453054.2020.1781535"> https://doi.org/10.1080/17453054.2020.1781535 </a> 
 
 *   [j. 4] Lee, S., **Lee, N.,** & Dockter, C. (2020). Effects of message presentation type on GM food risk perception, similarity judgement, and attitude. _Health Communication,_ _00_(00), 1-11. <a href="https://doi.org/10.1080/10410236.2020.1787926"> https://doi.org/10.1080/10410236.2020.1787926 </a> 
@@ -21,7 +23,6 @@ My research interest is developing and evaluating effective mediated messages, s
 
 ### Journal Manuscripts in Progress:
 
-*   [IP. 6] **Lee, N.,** & Lee, S. (under 3rd round review). Visualizing science: The impact of infographics on free recall, elaboration, and attitude change to GM food news. _Public Understanding of Science._
 
 *   [IP. 5] Lee, S., **Lee, N.,** & Dockter, C. (under 2nd round review). Effects of communication source and racial representation in clinical trial recruitment flyers. _Health Communication._
 
