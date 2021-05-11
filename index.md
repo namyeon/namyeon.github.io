@@ -1,7 +1,5 @@
 I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-Here are my **[cv (pdf)](./Lee_CV_103120.pdf)** and **<a href="https://nlgwc.myportfolio.com/work" target="_blank"> multimedia portfolifo (link)</a>**.  
-
 My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in the message development by using eye-tracking devices and software.
 * * *
 
@@ -65,14 +63,6 @@ My research interest is developing and evaluating effective mediated messages, s
 *   [c.2] Lee, S., Johnson, E., & **Lee, N.** (2016, May 9-13). The impact of risk perception on responses to misleading food label claim. Presented to the International Communication Association, Fukuoka, Japan. 
 
 *   [c.1] Park, E., & **Lee, N.** (2015, March 4-8). Dealing with misinformation in a health crisis situation: Effects of Inoculation messages and the tone of voice in Ebola virus communication. Presented to the International Public Relations Research Conference, Miami, FL.
-
-* * * 
-
-### In the past,
-
-I worked as a graphic designer for University of Missouri College of Education. Here's **<a href="https://nlgwc.myportfolio.com/work">some of my work. </a>** Working as a graphic designer helped me to build off my research on theory-driven message strategies. Most recently, my previous research on clinical trial advertisements examined how visual representation of race and communication source would affect clinical trial participation [IP. 3]. I also compared effects of infogrpahics, photo, and text-based messages in GM foods and bioengineering news [j. 4]. 
-
-As a teacher, I taught the Strategic Communication Research Methods class as an instructor of record in Fall 2018, 2019 and served as the teaching assistant for three semesters, Strategic Communication Research Methods (Undergraduate), Strategic Writing and Design (Undergraduate), and Psychology in Advertising (Undergraduate/Graduate).  
 
 <br>
 <br>
