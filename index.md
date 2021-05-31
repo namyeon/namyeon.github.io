@@ -2,6 +2,8 @@ I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_
 
 My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive and behavioral responses, and how the impact of those features would differ based on individuals’ characteristics. Besides, I investigate how to utilize information visualization in the message development by using eye-tracking devices and software.
 * * *
+Starting August 2021, I will be joining the <a href="https://www.uncp.edu/" target="_blank">University of North Carolina at Pembroke </a> as an assistant professor of mass communication.
+* * *
 
 ### Refereed Journal Articles:
 
