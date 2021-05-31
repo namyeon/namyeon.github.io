@@ -1,6 +1,6 @@
 Hi! I'm Namyeon. I am a PhD candidate at the <a href="https://journalism.missouri.edu/" target="_blank">Missouri School of Journalism </a> advised by <a href="https://journalism.missouri.edu/staff/sungkyoung-lee/" target="_blank">Dr. Sungkyoung Lee. </a>
 
-My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related communication messages. I examine how different message features influence the audience's cognitive, attitudinal, and behavioral responses, and how the impact of those features would differ based on individuals’ psychological background. 
+My research interest is developing and evaluating effective mediated messages, such as science-, risk-, and health-related information. I examine how different message features influence the audience's cognitive, attitudinal, and behavioral responses, and how the impact of those features would differ based on individuals’ psychological background. 
 
 Starting August 2021, I will be joining the <a href="https://www.uncp.edu/" target="_blank">University of North Carolina at Pembroke </a> as an assistant professor of <a href="https://www.uncp.edu/departments/mass-communication" target="_blank">mass communication. </a>  
 
